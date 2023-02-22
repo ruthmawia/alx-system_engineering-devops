@@ -1,2 +1,2 @@
 #!/bin/bash
-ecgo "\"(Ôo)'"
+echo '"(Ôo)'\'
